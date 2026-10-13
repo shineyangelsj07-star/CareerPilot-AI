@@ -1,0 +1,6 @@
+{
+  "name": "CareerPilot AI – Smart Placement Assistant",
+  "description": "AI-powered smart placement & internship assistant for CSE and engineering students featuring personalized learning roadmaps, resume analysis, JD matcher, interview coaching, coding practice tracking, and mock interviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
